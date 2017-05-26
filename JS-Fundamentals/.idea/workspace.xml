@@ -23,21 +23,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BinaryLogarithm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Control-FlowLogic/BinaryLogarithm.js">
+      <file leaf-file-name="GradsToRadians.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/GradsToRadians.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeNumberChecker.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Control-FlowLogic/PrimeNumberChecker.js">
+      <file leaf-file-name="CompoundInterest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/CompoundInterest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rounding.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/Rounding.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImperialUnits.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/ImperialUnits.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NowPlaying.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/NowPlaying.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComposeTag.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/ComposeTag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryToDecimal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/BinaryToDecimal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssignProperties.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/AssignProperties.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LastMonth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/LastMonth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BiggestOf3Numbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/BiggestOf3Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -48,6 +128,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AMD JavaScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -59,6 +140,20 @@
         <option value="$PROJECT_DIR$/Control-FlowLogic/Chessboard.js" />
         <option value="$PROJECT_DIR$/Control-FlowLogic/BinaryLogarithm.js" />
         <option value="$PROJECT_DIR$/Control-FlowLogic/PrimeNumberChecker.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/HelloJavaScript!.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/AreaAndPerimeter.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/DistanceOverTime.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/DistanceIn3D.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/GradsToRadians.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/CompoundInterest.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/Rounding.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/ImperialUnits.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/NowPlaying.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/ComposeTag.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/BinaryToDecimal.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/AssignProperties.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/LastMonth.js" />
+        <option value="$PROJECT_DIR$/DataTypesExpressionsStatements/BiggestOf3Numbers.js" />
       </list>
     </option>
   </component>
@@ -69,10 +164,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1117" />
-    <option name="y" value="256" />
-    <option name="width" value="1103" />
-    <option name="height" value="942" />
+    <option name="x" value="900" />
+    <option name="y" value="187" />
+    <option name="width" value="1245" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -118,10 +213,6 @@
               <option name="myItemId" value="JS-Fundamentals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptSyntax" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -133,7 +224,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Control-FlowLogic" />
+              <option name="myItemId" value="DataTypesExpressionsStatements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -142,7 +233,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -152,11 +243,20 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.PrimeNumberChecker.js">
-    <configuration default="false" name="Chessboard.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Chessboard.js" working-dir="$PROJECT_DIR$/Control-FlowLogic">
+  <component name="RunManager" selected="Node.js.BiggestOf3Numbers.js">
+    <configuration default="false" name="Rounding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Rounding.js" working-dir="$PROJECT_DIR$/DataTypesExpressionsStatements">
       <method />
     </configuration>
-    <configuration default="false" name="PrimeNumberChecker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PrimeNumberChecker.js" working-dir="$PROJECT_DIR$/Control-FlowLogic">
+    <configuration default="false" name="ImperialUnits.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ImperialUnits.js" working-dir="$PROJECT_DIR$/DataTypesExpressionsStatements">
+      <method />
+    </configuration>
+    <configuration default="false" name="NowPlaying.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="NowPlaying.js" working-dir="$PROJECT_DIR$/DataTypesExpressionsStatements">
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryToDecimal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="BinaryToDecimal.js" working-dir="$PROJECT_DIR$/DataTypesExpressionsStatements">
+      <method />
+    </configuration>
+    <configuration default="false" name="BiggestOf3Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="BiggestOf3Numbers.js" working-dir="$PROJECT_DIR$/DataTypesExpressionsStatements">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -206,14 +306,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Chessboard.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.PrimeNumberChecker.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Rounding.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.ImperialUnits.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.NowPlaying.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.BinaryToDecimal.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.BiggestOf3Numbers.js" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.PrimeNumberChecker.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Chessboard.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.BiggestOf3Numbers.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.BinaryToDecimal.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.NowPlaying.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.ImperialUnits.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Rounding.js" />
       </list>
     </recent_temporary>
   </component>
@@ -227,26 +333,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495785947520</updated>
-      <workItem from="1495785948958" duration="4918000" />
+      <workItem from="1495785948958" duration="19883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4918000" />
+    <option name="totallyTimeSpent" value="19883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1117" y="256" width="1103" height="942" extended-state="0" />
+    <frame x="900" y="187" width="1245" height="750" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2208639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43793103" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39827585" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -300,6 +406,118 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/AreaAndPerimeter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/DistanceOverTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/HelloJavaScript!.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/DistanceIn3D.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/GradsToRadians.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/CompoundInterest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/Rounding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/ImperialUnits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/NowPlaying.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/ComposeTag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/BinaryToDecimal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/AssignProperties.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/LastMonth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypesExpressionsStatements/BiggestOf3Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
