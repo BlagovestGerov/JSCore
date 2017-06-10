@@ -23,81 +23,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Escaping.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/Escaping.js">
+      <file leaf-file-name="SplitAStringWithADelimiter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/SplitAStringWithADelimiter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepeatAStringNTimes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/RepeatAStringNTimes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartsWith.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/StartsWith.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EndsWith.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/EndsWith.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CapitalizeTheWords.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/CapitalizeTheWords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmailValidation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/EmailValidation.js">
+      <file leaf-file-name="CaptureTheNumbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/CaptureTheNumbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <marker date="1497092078121" expanded="true" signature="32:167" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindVariableNamesInSentences.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/FindVariableNamesInSentences.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatchAllWords.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/MatchAllWords.js">
+      <file leaf-file-name="WordOccurences.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/WordOccurences.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExpressionSplit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/ExpressionSplit.js">
+      <file leaf-file-name="extractLinks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/extractLinks.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatchTheDates.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/MatchTheDates.js">
+      <file leaf-file-name="SecretData.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/SecretData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeData.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/EmployeeData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormFiller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/FormFiller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatchMultiplication.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/MatchMultiplication.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="111">
+              <caret line="7" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,16 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/CookingByNumbers.css" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/CookingNumbers.js" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/ValidityChecker.js" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/TreasureLocator.js" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/TripLength.js" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/ModifyAverage.js" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/RadioCrystals.js" />
-        <option value="$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/DNAHelix.js" />
-        <option value="$PROJECT_DIR$/LabArraysAndMatrices/SumFirstLast.js" />
-        <option value="$PROJECT_DIR$/LabArraysAndMatrices/EvenPositionElements.js" />
         <option value="$PROJECT_DIR$/LabArraysAndMatrices/NegativePositiveNumbers.js" />
         <option value="$PROJECT_DIR$/LabArraysAndMatrices/FirstAndLastKNumbers.js" />
         <option value="$PROJECT_DIR$/LabArraysAndMatrices/LastКNumbersSequence.js" />
@@ -168,6 +180,16 @@
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/EmployeeData.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/FormFiller.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/MatchMultiplication.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/SplitAStringWithADelimiter.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/RepeatAStringNTimes.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/StartsWith.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/EndsWith.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/CapitalizeTheWords.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/CaptureTheNumbers.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/FindVariableNamesInSentences.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/WordOccurences.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/extractLinks.js" />
+        <option value="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/SecretData.js" />
       </list>
     </option>
   </component>
@@ -178,9 +200,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="652" />
-    <option name="y" value="460" />
-    <option name="width" value="907" />
+    <option name="x" value="813" />
+    <option name="y" value="172" />
+    <option name="width" value="1050" />
     <option name="height" value="698" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -226,10 +248,6 @@
               <option name="myItemId" value="JS-Fundamentals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LabStringsAndRegularExpressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -238,6 +256,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JS-Fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExercisesStringsAndRegularExpressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,20 +280,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.FormFiller.js">
-    <configuration default="false" name="MatchAllWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MatchAllWords.js" working-dir="$PROJECT_DIR$/LabStringsAndRegularExpressions">
-      <method />
-    </configuration>
-    <configuration default="false" name="ExpressionSplit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ExpressionSplit.js" working-dir="$PROJECT_DIR$/LabStringsAndRegularExpressions">
-      <method />
-    </configuration>
-    <configuration default="false" name="MatchTheDates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MatchTheDates.js" working-dir="$PROJECT_DIR$/LabStringsAndRegularExpressions">
-      <method />
-    </configuration>
-    <configuration default="false" name="EmployeeData.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="EmployeeData.js" working-dir="$PROJECT_DIR$/LabStringsAndRegularExpressions">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.extractLinks.js">
     <configuration default="false" name="FormFiller.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FormFiller.js" working-dir="$PROJECT_DIR$/LabStringsAndRegularExpressions">
+      <method />
+    </configuration>
+    <configuration default="false" name="CaptureTheNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CaptureTheNumbers.js" working-dir="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions">
+      <method />
+    </configuration>
+    <configuration default="false" name="FindVariableNamesInSentences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FindVariableNamesInSentences.js" working-dir="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions">
+      <method />
+    </configuration>
+    <configuration default="false" name="WordOccurences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="WordOccurences.js" working-dir="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions">
+      <method />
+    </configuration>
+    <configuration default="false" name="extractLinks.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="extractLinks.js" working-dir="$PROJECT_DIR$/ExercisesStringsAndRegularExpressions">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -328,19 +350,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.MatchAllWords.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.ExpressionSplit.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.MatchTheDates.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.EmployeeData.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.FormFiller.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.FormFiller.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.CaptureTheNumbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.FindVariableNamesInSentences.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.WordOccurences.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.extractLinks.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.FormFiller.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.EmployeeData.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.MatchTheDates.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.ExpressionSplit.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.MatchAllWords.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.extractLinks.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.WordOccurences.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.FindVariableNamesInSentences.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.CaptureTheNumbers.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.FormFiller.js" />
       </list>
     </recent_temporary>
   </component>
@@ -362,18 +384,19 @@
       <workItem from="1496435804469" duration="2174000" />
       <workItem from="1496468248029" duration="28038000" />
       <workItem from="1496659727256" duration="21575000" />
-      <workItem from="1496814318961" duration="10347000" />
+      <workItem from="1496814318961" duration="10946000" />
+      <workItem from="1497074382385" duration="10246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100305000" />
+    <option name="totallyTimeSpent" value="111150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="652" y="460" width="907" height="698" extended-state="0" />
+    <frame x="813" y="172" width="1050" height="698" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23622048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2635659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -425,76 +448,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/ValidityChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/TreasureLocator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/ModifyAverage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/RadioCrystals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="60" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/TripLength.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="30" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/CookingNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/RoadRadar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesFunctionsAndArrowFunctions/DNAHelix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabArraysAndMatrices/SumFirstLast.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabArraysAndMatrices/EvenPositionElements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LabArraysAndMatrices/NegativePositiveNumbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -780,6 +733,88 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/SplitAStringWithADelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/RepeatAStringNTimes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/StartsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/EndsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/CapitalizeTheWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/CaptureTheNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <marker date="1497092078121" expanded="true" signature="32:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/FindVariableNamesInSentences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/WordOccurences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/extractLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesStringsAndRegularExpressions/SecretData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
