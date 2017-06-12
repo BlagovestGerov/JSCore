@@ -53,11 +53,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopulationsInTowns.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PopulationsInTowns.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/PopulationsInTowns.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CityMarkets.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/CityMarkets.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestPricesInCities.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/LowestPricesInCities.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="27" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtractUniqueWords.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/ExtractUniqueWords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -77,9 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LabArraysAndMatrices/EqualNeighbors.js" />
-        <option value="$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/PrintAnArrayWithAGivenDelimiter.js" />
-        <option value="$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/RotateArray.js" />
         <option value="$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/SortArray.js" />
         <option value="$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/PrintEveryNthElementFromAnArray.js" />
         <option value="$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/AddAndRemoveElementsFromArray.js" />
@@ -128,6 +155,9 @@
         <option value="$PROJECT_DIR$/LabObjectsAndAssociativeArrays/CountWordsInAText.js" />
         <option value="$PROJECT_DIR$/LabObjectsAndAssociativeArrays/CountWordsWithMaps.js" />
         <option value="$PROJECT_DIR$/LabObjectsAndAssociativeArrays/PopulationsInTowns.js" />
+        <option value="$PROJECT_DIR$/LabObjectsAndAssociativeArrays/CityMarkets.js" />
+        <option value="$PROJECT_DIR$/LabObjectsAndAssociativeArrays/LowestPricesInCities.js" />
+        <option value="$PROJECT_DIR$/LabObjectsAndAssociativeArrays/ExtractUniqueWords.js" />
       </list>
     </option>
   </component>
@@ -138,10 +168,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="888" />
-    <option name="y" value="39" />
+    <option name="x" value="848" />
+    <option name="y" value="51" />
     <option name="width" value="1142" />
-    <option name="height" value="950" />
+    <option name="height" value="975" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -218,20 +248,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.PopulationsInTowns.js">
-    <configuration default="false" name="ScoreToHTML.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ScoreToHTML.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
-      <method />
-    </configuration>
-    <configuration default="false" name="JSONToHTMLTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="JSONToHTMLTable.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
-      <method />
-    </configuration>
-    <configuration default="false" name="CountWordsInAText.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CountWordsInAText.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.ExtractUniqueWords.js">
     <configuration default="false" name="CountWordsWithMaps.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CountWordsWithMaps.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
       <method />
     </configuration>
     <configuration default="false" name="PopulationsInTowns.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PopulationsInTowns.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
+      <method />
+    </configuration>
+    <configuration default="false" name="CityMarkets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CityMarkets.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
+      <method />
+    </configuration>
+    <configuration default="false" name="LowestPricesInCities.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="LowestPricesInCities.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
+      <method />
+    </configuration>
+    <configuration default="false" name="ExtractUniqueWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ExtractUniqueWords.js" working-dir="$PROJECT_DIR$/LabObjectsAndAssociativeArrays">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -288,19 +318,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.ScoreToHTML.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.JSONToHTMLTable.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.CountWordsInAText.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.CountWordsWithMaps.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.PopulationsInTowns.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.CountWordsWithMaps.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.PopulationsInTowns.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.CityMarkets.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.LowestPricesInCities.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ExtractUniqueWords.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.PopulationsInTowns.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.CountWordsWithMaps.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.CountWordsInAText.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.JSONToHTMLTable.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.ScoreToHTML.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ExtractUniqueWords.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.LowestPricesInCities.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.CityMarkets.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.PopulationsInTowns.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.CountWordsWithMaps.js" />
       </list>
     </recent_temporary>
   </component>
@@ -324,22 +354,22 @@
       <workItem from="1496659727256" duration="21575000" />
       <workItem from="1496814318961" duration="10946000" />
       <workItem from="1497074382385" duration="19284000" />
-      <workItem from="1497240932032" duration="9449000" />
+      <workItem from="1497240932032" duration="15935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129637000" />
+    <option name="totallyTimeSpent" value="136123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="888" y="39" width="1142" height="950" extended-state="0" />
+    <frame x="848" y="51" width="1142" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24199288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30512822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1962733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -387,27 +417,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LabArraysAndMatrices/EqualNeighbors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="24" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/PrintAnArrayWithAGivenDelimiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/RotateArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/SortArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -755,6 +764,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/CityMarkets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/LowestPricesInCities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="27" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/ExtractUniqueWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
