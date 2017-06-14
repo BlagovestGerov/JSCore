@@ -79,11 +79,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SystemComponents.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SystemComponents.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/SystemComponents.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="592">
+              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usernames.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/Usernames.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniqueSequences.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/UniqueSequences.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="37" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -103,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/Orbit.js" />
-        <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/PrintLetters.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/ConcatenateAndReverse.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/CountOccurences.js" />
@@ -154,6 +172,8 @@
         <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/StoreCatalogue.js" />
         <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/AutоEngineeringCompany.js" />
         <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/SystemComponents.js" />
+        <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/Usernames.js" />
+        <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/UniqueSequences.js" />
       </list>
     </option>
   </component>
@@ -164,10 +184,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="964" />
+    <option name="y" value="63" />
+    <option name="width" value="1134" />
+    <option name="height" value="845" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -244,13 +264,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.SystemComponents.js">
-    <configuration default="false" name="JSONsTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="JSONsTable.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
-      <method />
-    </configuration>
-    <configuration default="false" name="CappyJuice.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CappyJuice.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.UniqueSequences.js">
     <configuration default="false" name="StoreCatalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="StoreCatalogue.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
       <method />
     </configuration>
@@ -258,6 +272,12 @@
       <method />
     </configuration>
     <configuration default="false" name="SystemComponents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SystemComponents.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
+      <method />
+    </configuration>
+    <configuration default="false" name="Usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Usernames.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
+      <method />
+    </configuration>
+    <configuration default="false" name="UniqueSequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="UniqueSequences.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -314,19 +334,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.JSONsTable.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.CappyJuice.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.StoreCatalogue.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.AutоEngineeringCompany.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.StoreCatalogue.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.AutоEngineeringCompany.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.UniqueSequences.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.AutоEngineeringCompany.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.StoreCatalogue.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.CappyJuice.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.JSONsTable.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.UniqueSequences.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.AutоEngineeringCompany.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.StoreCatalogue.js" />
       </list>
     </recent_temporary>
   </component>
@@ -351,22 +371,22 @@
       <workItem from="1496814318961" duration="10946000" />
       <workItem from="1497074382385" duration="19284000" />
       <workItem from="1497240932032" duration="16127000" />
-      <workItem from="1497333008975" duration="12721000" />
+      <workItem from="1497333008975" duration="15403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149036000" />
+    <option name="totallyTimeSpent" value="151718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="964" y="63" width="1134" height="845" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10752688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19931664" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25925925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -414,14 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ExercisesArraysMatricesMultiDimensionalArrays/Orbit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions.js" />
     <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/PrintLetters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -786,8 +798,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/SystemComponents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="592">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/Usernames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/UniqueSequences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="37" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
           <folding />
         </state>
       </provider>
