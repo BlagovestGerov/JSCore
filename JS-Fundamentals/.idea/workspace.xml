@@ -23,87 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HeroicInventory.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/HeroicInventory.js">
+      <file leaf-file-name="FormatHelper.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSFundamentalsExam16December2016/FormatHelper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSONsTable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/JSONsTable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <marker date="1497341871449" expanded="true" signature="470:476" ph="&quot;" />
-                <marker date="1497341871449" expanded="true" signature="485:490" ph="&amp;" />
-                <marker date="1497341871449" expanded="true" signature="511:516" ph="..." />
-                <marker date="1497341871449" expanded="true" signature="525:529" ph="&lt;" />
-                <marker date="1497341871449" expanded="true" signature="538:542" ph="&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CappyJuice.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/CappyJuice.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreCatalogue.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/StoreCatalogue.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutоEngineeringCompany.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/AutоEngineeringCompany.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SystemComponents.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/SystemComponents.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Usernames.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/Usernames.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueSequences.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/UniqueSequences.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="37" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="132">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -123,10 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/PrintLetters.js" />
-        <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/ConcatenateAndReverse.js" />
-        <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/CountOccurences.js" />
-        <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/ExtractText.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/AggregateTable.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/RestaurantBill.js" />
         <option value="$PROJECT_DIR$/LabStringsAndRegularExpressions/Usernames.js" />
@@ -174,6 +94,10 @@
         <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/SystemComponents.js" />
         <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/Usernames.js" />
         <option value="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/UniqueSequences.js" />
+        <option value="$PROJECT_DIR$/JSFundamentalsExam16December2016.js" />
+        <option value="$PROJECT_DIR$/JSFundamentalsExam16December2016/spiceMustFlow.js" />
+        <option value="$PROJECT_DIR$/JSFundamentalsExam16December2016/BuildAWall.js" />
+        <option value="$PROJECT_DIR$/JSFundamentalsExam16December2016/FormatHelper.js" />
       </list>
     </option>
   </component>
@@ -184,9 +108,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="964" />
-    <option name="y" value="63" />
-    <option name="width" value="1134" />
+    <option name="x" value="1001" />
+    <option name="y" value="126" />
+    <option name="width" value="1136" />
     <option name="height" value="845" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -214,7 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,23 +157,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Fundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Fundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExercisesObjectsAssociativeArraysMapsSets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,20 +167,14 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS-Exercise-SCSystems" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.UniqueSequences.js">
-    <configuration default="false" name="StoreCatalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="StoreCatalogue.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
-      <method />
-    </configuration>
-    <configuration default="false" name="AutоEngineeringCompany.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="AutоEngineeringCompany.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.BuildAWall.js">
     <configuration default="false" name="SystemComponents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SystemComponents.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
       <method />
     </configuration>
@@ -278,6 +182,12 @@
       <method />
     </configuration>
     <configuration default="false" name="UniqueSequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="UniqueSequences.js" working-dir="$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets">
+      <method />
+    </configuration>
+    <configuration default="false" name="spiceMustFlow.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="spiceMustFlow.js" working-dir="$PROJECT_DIR$/JSFundamentalsExam16December2016">
+      <method />
+    </configuration>
+    <configuration default="false" name="BuildAWall.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="BuildAWall.js" working-dir="$PROJECT_DIR$/JSFundamentalsExam16December2016">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -334,19 +244,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.StoreCatalogue.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.AutоEngineeringCompany.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.UniqueSequences.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.UniqueSequences.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.spiceMustFlow.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.BuildAWall.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.UniqueSequences.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.AutоEngineeringCompany.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.StoreCatalogue.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.BuildAWall.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.spiceMustFlow.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.UniqueSequences.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.SystemComponents.js" />
       </list>
     </recent_temporary>
   </component>
@@ -371,22 +281,23 @@
       <workItem from="1496814318961" duration="10946000" />
       <workItem from="1497074382385" duration="19284000" />
       <workItem from="1497240932032" duration="16127000" />
-      <workItem from="1497333008975" duration="15403000" />
+      <workItem from="1497333008975" duration="16001000" />
+      <workItem from="1497521324903" duration="4342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151718000" />
+    <option name="totallyTimeSpent" value="156658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="964" y="63" width="1134" height="845" extended-state="0" />
-    <editor active="true" />
+    <frame x="1001" y="126" width="1136" height="845" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10752688" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18872987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25925925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25925925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -434,34 +345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/PrintLetters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/ConcatenateAndReverse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/CountOccurences.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/AggregateTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LabStringsAndRegularExpressions/RestaurantBill.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -669,13 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <marker date="1497242469576" expanded="true" signature="378:384" ph="&quot;" />
-            <marker date="1497242469576" expanded="true" signature="393:398" ph="&amp;" />
-            <marker date="1497242469576" expanded="true" signature="419:424" ph="..." />
-            <marker date="1497242469576" expanded="true" signature="433:437" ph="&lt;" />
-            <marker date="1497242469576" expanded="true" signature="446:450" ph="&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,23 +601,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/ExercisesObjectsAssociativeArraysMapsSets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/ExercisesObjectsAssociativeArraysMapsSets.js" />
     <entry file="file://$PROJECT_DIR$/LabObjectsAndAssociativeArrays/ExtractUniqueWords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +644,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/StoreCatalogue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="550">
           <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding />
         </state>
@@ -798,7 +660,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/SystemComponents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
+        <state relative-caret-position="1144">
           <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
           <folding />
         </state>
@@ -812,10 +674,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JSFundamentalsExam16December2016.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesObjectsAssociativeArraysMapsSets/UniqueSequences.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="400">
           <caret line="37" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSFundamentalsExam16December2016/spiceMustFlow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSFundamentalsExam16December2016/BuildAWall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSFundamentalsExam16December2016/FormatHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
