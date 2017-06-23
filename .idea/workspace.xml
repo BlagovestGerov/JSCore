@@ -87,11 +87,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumTable.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumTable.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumTable.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
               <caret line="28" column="9" selection-start-line="23" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListOfItems.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/ListOfItems.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="18" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddDelete.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/AddDelete.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteFromTable.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/DeleteFromTable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="37" column="9" selection-start-line="18" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -125,6 +155,10 @@
         <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/Extract Parenthesis.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/ExtractParenthesis.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumTable.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/ListOfItems.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/Add/Delete.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/AddDelete.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/DeleteFromTable.html" />
       </list>
     </option>
   </component>
@@ -135,10 +169,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="940" />
-    <option name="y" value="38" />
-    <option name="width" value="1177" />
-    <option name="height" value="885" />
+    <option name="x" value="916" />
+    <option name="y" value="117" />
+    <option name="width" value="1084" />
+    <option name="height" value="645" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -199,7 +233,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LabDocumentObjectModel" />
+              <option name="myItemId" value="LabDOMManipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSAdvanced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,20 +268,20 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.SumTable.html">
-    <configuration default="false" name="CollectList.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDocumentObjectModel/CollectList.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="ColorizeTable.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDocumentObjectModel/ColorizeTable.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Countdown.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDocumentObjectModel/Countdown.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.DeleteFromTable.html">
     <configuration default="false" name="ExtractParenthesis.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ExtractParenthesis.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel">
       <method />
     </configuration>
     <configuration default="false" name="SumTable.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDocumentObjectModel/SumTable.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="ListOfItems.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDOMManipulation/ListOfItems.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="AddDelete.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDOMManipulation/AddDelete.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="DeleteFromTable.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDOMManipulation/DeleteFromTable.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -290,19 +338,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.CollectList.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ColorizeTable.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Countdown.html" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.ExtractParenthesis.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.SumTable.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.ExtractParenthesis.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.SumTable.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ListOfItems.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.AddDelete.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.DeleteFromTable.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.SumTable.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ExtractParenthesis.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Countdown.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ColorizeTable.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.CollectList.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DeleteFromTable.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.AddDelete.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ListOfItems.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.SumTable.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.ExtractParenthesis.js" />
       </list>
     </recent_temporary>
   </component>
@@ -322,22 +370,22 @@
       <workItem from="1497556374934" duration="122000" />
       <workItem from="1497556523163" duration="1385000" />
       <workItem from="1497790238852" duration="215000" />
-      <workItem from="1498135504104" duration="12510000" />
+      <workItem from="1498135504104" duration="19210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14232000" />
+    <option name="totallyTimeSpent" value="20932000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="940" y="38" width="1177" height="885" extended-state="0" />
+    <frame x="916" y="117" width="1084" height="645" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1484038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100375235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16842106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -487,6 +535,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="28" column="9" selection-start-line="23" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/Add/Delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/ListOfItems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/AddDelete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/DeleteFromTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="37" column="9" selection-start-line="18" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
           <folding />
         </state>
       </provider>
