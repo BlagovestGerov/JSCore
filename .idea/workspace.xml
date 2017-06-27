@@ -23,16 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Subtraction.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Subtraction.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Fill Dropdown.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Fill Dropdown.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,11 +53,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Accordeon.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Accordeon.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordeon.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sections.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Sections.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notification.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Notification.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeConverter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeConverter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistanceConverter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="distanceConverter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/distanceConverter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -120,6 +170,12 @@
         <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/FillDropDown.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordion.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordeon.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Sections.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Notification.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/distanceConverter.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js" />
       </list>
     </option>
   </component>
@@ -130,9 +186,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="680" />
-    <option name="y" value="71" />
-    <option name="width" value="1299" />
+    <option name="x" value="857" />
+    <option name="y" value="96" />
+    <option name="width" value="1020" />
     <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -230,20 +286,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Accordion.html">
-    <configuration default="false" name="gradient.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="gradient.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabDOMManipulation">
-      <method />
-    </configuration>
-    <configuration default="false" name="HighlightActive.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabDOMManipulation/HighlightActive.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Subtraction.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Subtraction.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Fill Dropdown.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Fill Dropdown.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.TimeConverter.html">
     <configuration default="false" name="Accordion.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Accordion.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Sections.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Sections.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Notification.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Notification.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="TimeConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="DistanceConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -300,19 +356,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.gradient.js" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.HighlightActive.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Subtraction.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Fill Dropdown.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Accordion.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Accordion.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Sections.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Notification.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Accordion.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Fill Dropdown.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Subtraction.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.HighlightActive.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.gradient.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Notification.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Sections.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Accordion.html" />
       </list>
     </recent_temporary>
   </component>
@@ -333,22 +389,22 @@
       <workItem from="1497556523163" duration="1385000" />
       <workItem from="1497790238852" duration="215000" />
       <workItem from="1498135504104" duration="19808000" />
-      <workItem from="1498462378656" duration="16472000" />
+      <workItem from="1498462378656" duration="23771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38002000" />
+    <option name="totallyTimeSpent" value="45301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="71" width="1299" height="772" extended-state="0" />
+    <frame x="857" y="96" width="1020" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10538641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13473053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23089701" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25083056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -665,6 +721,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/distanceConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
           <folding />
         </state>
       </provider>
