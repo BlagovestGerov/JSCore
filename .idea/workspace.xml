@@ -23,101 +23,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Fill Dropdown.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Fill Dropdown.html">
+      <file leaf-file-name="LinkButtons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="342">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FillDropDown.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/FillDropDown.js">
+      <file leaf-file-name="CountriesTable.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="198">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Accordion.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordion.html">
+      <file leaf-file-name="linkButtons.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            <state relative-caret-position="154">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Accordeon.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordeon.js">
+      <file leaf-file-name="SelectableTowns.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="188">
+              <caret line="50" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sections.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Sections.html">
+      <file leaf-file-name="buttonsCss.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/buttonsCss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Notification.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Notification.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeConverter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timeConverter.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistanceConverter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="distanceConverter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/distanceConverter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            <state relative-caret-position="154">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -129,8 +79,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -176,6 +126,16 @@
         <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/distanceConverter.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/TextFromList.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/SearchInList.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/initializeTable.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/countriesTable.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/buttonsCss.css" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/attachEvents.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html" />
       </list>
     </option>
   </component>
@@ -186,9 +146,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="857" />
-    <option name="y" value="96" />
-    <option name="width" value="1020" />
+    <option name="x" value="924" />
+    <option name="y" value="106" />
+    <option name="width" value="1014" />
     <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -248,24 +208,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSCore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSAdvanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExerciseDOMManipulations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -286,20 +228,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.TimeConverter.html">
-    <configuration default="false" name="Accordion.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Accordion.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Sections.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Sections.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Notification.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/Notification.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.SelectableTowns.html">
     <configuration default="false" name="TimeConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
       <method />
     </configuration>
     <configuration default="false" name="DistanceConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="countriesTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="countriesTable.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabJQuery">
+      <method />
+    </configuration>
+    <configuration default="false" name="attachEvents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabJQuery">
+      <method />
+    </configuration>
+    <configuration default="false" name="SelectableTowns.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabJQuery/SelectableTowns.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -356,19 +298,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Accordion.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Sections.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Notification.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.countriesTable.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.attachEvents.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.SelectableTowns.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Notification.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Sections.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Accordion.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.SelectableTowns.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.attachEvents.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.countriesTable.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
       </list>
     </recent_temporary>
   </component>
@@ -389,18 +331,18 @@
       <workItem from="1497556523163" duration="1385000" />
       <workItem from="1497790238852" duration="215000" />
       <workItem from="1498135504104" duration="19808000" />
-      <workItem from="1498462378656" duration="23771000" />
+      <workItem from="1498462378656" duration="37076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45301000" />
+    <option name="totallyTimeSpent" value="58606000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="857" y="96" width="1020" height="772" extended-state="0" />
-    <editor active="true" />
+    <frame x="924" y="106" width="1014" height="772" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13473053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17168675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -434,58 +376,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumNumbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/showMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/CollectList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/ColorizeTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/Countdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/ExtractParenthesis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumTable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -701,26 +591,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Fill Dropdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordeon.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -733,10 +631,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Notification.html">
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        <state relative-caret-position="266">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Fill Dropdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -757,18 +663,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/TextFromList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="176">
+          <caret line="8" column="40" selection-start-line="6" selection-start-column="2" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js">
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SearchInList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/countriesTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/buttonsCss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="50" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
           <folding />
         </state>
       </provider>
