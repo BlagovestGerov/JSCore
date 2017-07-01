@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3f759fe-7190-4e3f-9b19-a66db5a7b9f4" name="Default" comment="" />
+    <list default="true" id="d3f759fe-7190-4e3f-9b19-a66db5a7b9f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JSCore.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,51 +25,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LinkButtons.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html">
+      <file leaf-file-name="dom-search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="132">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountriesTable.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html">
+      <file leaf-file-name="incrementCounter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/incrementCounter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formValidation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/formValidation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dom-search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linkButtons.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectableTowns.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="50" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttonsCss.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/buttonsCss.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -78,9 +80,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
+        <option value="HTML4 File" />
       </list>
     </option>
   </component>
@@ -90,13 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FromatHelper.js" />
-        <option value="$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FormatHelper.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumNumbers.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumNumbers.html" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/ShowMore.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/showMore.html" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/CollectList.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/ColorizeTable.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/Countdown.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/Extract Parenthesis.html" />
@@ -136,6 +132,18 @@
         <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/IncrementCounter.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/incrementCounter.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/Timer.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/timer.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/BookGenerator.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/book-generator.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/style.css" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/index.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/formValidation.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-generator.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.html" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.js" />
       </list>
     </option>
   </component>
@@ -146,10 +154,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="924" />
-    <option name="y" value="106" />
-    <option name="width" value="1014" />
-    <option name="height" value="772" />
+    <option name="x" value="805" />
+    <option name="y" value="59" />
+    <option name="width" value="1058" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -176,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,10 +217,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSAdvanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExercisesjQueryDOMAndEvents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,23 +251,23 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.SelectableTowns.html">
-    <configuration default="false" name="TimeConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/TimeConverter.html">
+  <component name="RunManager" selected="Node.js.incrementCounter.js">
+    <configuration default="false" name="book-generator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="book-generator.js" working-dir="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents">
       <method />
     </configuration>
-    <configuration default="false" name="DistanceConverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
+    <configuration default="false" name="formValidation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="formValidation.js" working-dir="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation">
       <method />
     </configuration>
-    <configuration default="false" name="countriesTable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="countriesTable.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabJQuery">
+    <configuration default="false" name="dom-search.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.html">
       <method />
     </configuration>
-    <configuration default="false" name="attachEvents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabJQuery">
+    <configuration default="false" name="dom-search.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="dom-search.js" working-dir="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents">
       <method />
     </configuration>
-    <configuration default="false" name="SelectableTowns.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSCore/JSAdvanced/LabJQuery/SelectableTowns.html">
+    <configuration default="false" name="incrementCounter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="incrementCounter.js" working-dir="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -298,19 +324,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.countriesTable.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.attachEvents.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.SelectableTowns.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.book-generator.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.formValidation.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dom-search.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.dom-search.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.incrementCounter.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.SelectableTowns.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.attachEvents.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.countriesTable.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.TimeConverter.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.DistanceConverter.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.incrementCounter.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dom-search.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.dom-search.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.formValidation.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.book-generator.js" />
       </list>
     </recent_temporary>
   </component>
@@ -331,22 +357,23 @@
       <workItem from="1497556523163" duration="1385000" />
       <workItem from="1497790238852" duration="215000" />
       <workItem from="1498135504104" duration="19808000" />
-      <workItem from="1498462378656" duration="37076000" />
+      <workItem from="1498462378656" duration="37673000" />
+      <workItem from="1498923103622" duration="13879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58606000" />
+    <option name="totallyTimeSpent" value="73082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="924" y="106" width="1014" height="772" extended-state="0" />
-    <editor active="false" />
+    <frame x="805" y="59" width="1058" height="956" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17168675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20288461" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25083056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23791349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -376,50 +403,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="9" selection-start-line="23" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/ListOfItems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/AddDelete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/DeleteFromTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FormatHelper.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FormatHelper.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FormatHelper.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FormatHelper.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Fundamentals/JSFundamentalsExam16December2016/FormatHelper.js" />
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumNumbers.js" />
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/ShowMore.js" />
     <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDocumentObjectModel/SumNumbers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,9 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -437,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,9 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -472,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="28" column="9" selection-start-line="23" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,9 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="18" column="25" selection-start-line="13" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,23 +486,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/DynamicValidation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/DynamicValidation.js" />
     <entry file="file://$PROJECT_DIR$/JSAdvanced/LabDOMManipulation/HighlightActive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="32" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -595,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="40" selection-start-line="6" selection-start-column="2" selection-end-line="8" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="418">
           <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
@@ -711,18 +656,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html">
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="251">
+          <caret line="50" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html">
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="50" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="177">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/Timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/book-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/IncrementCounter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/BookGenerator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/incrementCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/FormValidation/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/dom-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
