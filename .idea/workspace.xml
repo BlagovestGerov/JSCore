@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3f759fe-7190-4e3f-9b19-a66db5a7b9f4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JSAdvanced/ExerciseAdvancedFunctions/KeplersProblem.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JSCore.iws" />
@@ -26,12 +25,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ListProcessor01.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/ListProcessor01.js">
+      <file leaf-file-name="ArrayExtension.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ArrayExtension.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="268">
+              <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructionCrew.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ConstructionCrew.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarFactory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/CarFactory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtensibleObject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ExtensibleObject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RectangleClass.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/RectangleClass.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonClass.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PersonClass.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="34" column="1" selection-start-line="22" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetPersons.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/GetPersons.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="37" column="1" selection-start-line="16" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/Circle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointDistance.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PointDistance.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,15 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/timeConverter.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/TextFromList.html" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/SearchInList.html" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/initializeTable.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/CountriesTable.html" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/countriesTable.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/buttonsCss.css" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/attachEvents.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/LabJQuery/SelectableTowns.html" />
         <option value="$PROJECT_DIR$/JSAdvanced/ExercisesjQueryDOMAndEvents/IncrementCounter.html" />
@@ -115,6 +201,15 @@
         <option value="$PROJECT_DIR$/JSAdvanced/logicalEx/binarySearch.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/ObjectComposition/ListProcessor01.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/ObjectComposition/ObjectInheritance.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ArrayExtension.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ConstructionCrew.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/CarFactory.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ExtensibleObject.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/RectangleClass.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PersonClass.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/GetPersons.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/Circle.js" />
+        <option value="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PointDistance.js" />
       </list>
     </option>
   </component>
@@ -125,9 +220,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="811" />
-    <option name="y" value="30" />
-    <option name="width" value="1058" />
+    <option name="x" value="809" />
+    <option name="y" value="37" />
+    <option name="width" value="1056" />
     <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -155,6 +250,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,10 +284,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSAdvanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LabClassesAndMembers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,20 +320,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.ListProcessor01.js">
-    <configuration default="false" name="EuclidsAlgorithm02.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="EuclidsAlgorithm02.js" working-dir="$PROJECT_DIR$/JSAdvanced/ExerciseAdvancedFunctions">
+  <component name="RunManager" selected="Node.js.PointDistance.js">
+    <configuration default="false" name="RectangleClass.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RectangleClass.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers">
       <method />
     </configuration>
-    <configuration default="false" name="OrderRectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="OrderRectangles.js" working-dir="$PROJECT_DIR$/JSAdvanced/ObjectComposition">
+    <configuration default="false" name="PersonClass.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PersonClass.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers">
       <method />
     </configuration>
-    <configuration default="false" name="Fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Fibonacci.js" working-dir="$PROJECT_DIR$/JSAdvanced/ObjectComposition">
+    <configuration default="false" name="GetPersons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="GetPersons.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers">
       <method />
     </configuration>
-    <configuration default="false" name="ListProcessor01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ListProcessor01.js" working-dir="$PROJECT_DIR$/JSAdvanced/ObjectComposition">
+    <configuration default="false" name="Circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Circle.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers">
       <method />
     </configuration>
-    <configuration default="false" name="binarySearch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="binarySearch.js" working-dir="$PROJECT_DIR$/JSAdvanced/logicalEx">
+    <configuration default="false" name="PointDistance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PointDistance.js" working-dir="$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -277,19 +390,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.EuclidsAlgorithm02.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Fibonacci.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.ListProcessor01.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.binarySearch.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.RectangleClass.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.PersonClass.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.GetPersons.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Circle.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.PointDistance.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.ListProcessor01.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.binarySearch.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Fibonacci.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.EuclidsAlgorithm02.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.PointDistance.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Circle.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.GetPersons.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.PersonClass.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.RectangleClass.js" />
       </list>
     </recent_temporary>
   </component>
@@ -317,33 +430,34 @@
       <workItem from="1499498954620" duration="24723000" />
       <workItem from="1499684316912" duration="3174000" />
       <workItem from="1500530325479" duration="23000" />
-      <workItem from="1500553229003" duration="144000" />
+      <workItem from="1500553229003" duration="1903000" />
+      <workItem from="1500556785489" duration="12421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103412000" />
+    <option name="totallyTimeSpent" value="117592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="811" y="30" width="1058" height="956" extended-state="0" />
-    <editor active="false" />
+    <frame x="809" y="37" width="1056" height="956" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4576923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21290945" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23791349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40419582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23791349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40419582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -358,73 +472,19 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PersonClass.js</url>
+          <line>22</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/Fill Dropdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/DistanceConverter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExerciseDOMManipulations/distanceConverter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/TextFromList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="40" selection-start-line="6" selection-start-column="2" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/SearchInList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/countriesTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/LinkButtons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/buttonsCss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSAdvanced/LabJQuery/linkButtons.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -702,11 +762,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/ObjectInheritance.js">
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/ObjectInheritance.js" />
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ArrayExtension.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        <state relative-caret-position="268">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ConstructionCrew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/CarFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ExtensibleObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/RectangleClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PersonClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="34" column="1" selection-start-line="22" selection-start-column="0" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/GetPersons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="37" column="1" selection-start-line="16" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/Circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSAdvanced/LabClassesAndMembers/PointDistance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
