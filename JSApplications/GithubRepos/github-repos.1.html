@@ -1,0 +1,68 @@
+<!--
+Your task is to write a JS function that executes an AJAX request with jQuery and loads all user github repositories
+by a given username (taken from input field with id &quot;username&quot;) into a list (each repository as a list-item) with id
+&quot;repos&quot;. Use the properties full_name and html_url of the returned objects to create a link to each repo’s
+GitHub page. If an error occurs (like 404 “Not Found”), append to the list a list-item with text &quot;Error&quot; instead. Clear
+the contents of the list before any new content is appended. See the highlighted lines of the skeleton for formatting
+details of each list item. Submit your loadRepos function.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Repos</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+
+<body>
+GitHub username:
+<input type="text" id="username" value="k1r1L" />
+<button onclick="loadRepos()">Load Repos</button>
+<ul id="repos">
+    <!--  add repos list here -->
+</ul>
+<script>
+    function loadRepos() {
+        //ajax call
+        let username = $("#username").val();
+        console.log(username);
+        let url = `https://api.github.com/users/${username}/repos`;
+        console.log(url);
+        let container = $('#repos');
+        container.empty();
+
+        let request = {
+            url: url,
+            method: "GET",
+            success: displayJson,
+            error: displayError
+        }
+
+        $.ajax(request);
+
+        //$.get(`https://api.github.com/users/${username}/repos`).then(displayJson);
+        function displayError(err) {
+            container.append(`<li>Error</li>`);
+        }
+
+        function displayJson(repos) {
+            console.log(repos);
+            for(let repo of repos){
+                var li = $('<li>');
+                var thelink = $('<a>',{
+                    text: repo.full_name,
+                    title: repo.full_name,
+                    href: repo.html_url
+                }).appendTo(li);
+
+                li.appendTo(container);
+            }
+        }
+    }
+    
+</script>
+</body>
+
+</html>
