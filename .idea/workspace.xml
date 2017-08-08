@@ -23,53 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BusStop.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/BusStop.html">
+      <file leaf-file-name="catch.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/catch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BusSchedule.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/BusSchedule.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+            <state relative-caret-position="564">
+              <caret line="28" column="68" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="messenger.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/messenger/messenger.json">
+      <file leaf-file-name="catch.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/catch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Messenger.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/messenger/Messenger.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/messenger/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="323">
+              <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -93,13 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseAdvancedFunctions/MonkeyPatcher01.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseAdvancedFunctions/EuclidsAlgorithm01.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseAdvancedFunctions/EuclidsAlgorithm02.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/ExerciseAdvancedFunctions/KeplersProblem.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/ObjectComposition/OrderRectangles.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/ObjectComposition/Fibonacci.js" />
-        <option value="$PROJECT_DIR$/JSAdvanced/logicalEx/binarySearch.css" />
         <option value="$PROJECT_DIR$/JSAdvanced/logicalEx/binarySearch.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/ObjectComposition/ListProcessor01.js" />
         <option value="$PROJECT_DIR$/JSAdvanced/ObjectComposition/ObjectInheritance.js" />
@@ -144,6 +105,13 @@
         <option value="$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/Messenger.html" />
         <option value="$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/messenger/solution.js" />
         <option value="$PROJECT_DIR$/JSApplications/ExercisesjQueryAJAXAndTheheGitHubAPI/messenger/solution1.js" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/Forecaster.css" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/Forecaster.html" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/forecaster.css" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/forecaster.js" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/fisherGame.html" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/fisherGame.js" />
+        <option value="$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/catch.js" />
       </list>
     </option>
   </component>
@@ -154,9 +122,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="843" />
-    <option name="y" value="44" />
-    <option name="width" value="1050" />
+    <option name="x" value="840" />
+    <option name="width" value="887" />
     <option name="height" value="890" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -231,7 +198,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ExercisesjQueryAJAXAndTheheGitHubAPI" />
+              <option name="myItemId" value="ExercisesAsynchronousProgrammingAndPromises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,11 +216,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ExercisesjQueryAJAXAndTheheGitHubAPI" />
+              <option name="myItemId" value="ExercisesAsynchronousProgrammingAndPromises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="messenger" />
+              <option name="myItemId" value="FisherGame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,22 +360,22 @@
       <workItem from="1500530325479" duration="23000" />
       <workItem from="1500553229003" duration="1903000" />
       <workItem from="1500556785489" duration="30490000" />
-      <workItem from="1501493824234" duration="24939000" />
+      <workItem from="1501493824234" duration="34047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160600000" />
+    <option name="totallyTimeSpent" value="169708000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="843" y="44" width="1050" height="890" extended-state="0" />
+    <frame x="840" y="0" width="887" height="890" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19379845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18872267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26527777" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26527777" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -429,9 +396,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23791349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26527777" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21290945" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18872267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -464,35 +431,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/logicalEx/binarySearch.css" />
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/logicalEx/binarySearch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/OrderRectangles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/Fibonacci.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/ListProcessor01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSAdvanced/ObjectComposition/ObjectInheritance.js" />
     <entry file="file://$PROJECT_DIR$/JSAdvanced/ExercisesObjectsInheritanceAndPrototypes/ArrayExtension.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -505,6 +443,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,6 +782,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/forecaster.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/catch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="28" column="68" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/forecaster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/Forecaster/forecaster.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSApplications/ExercisesAsynchronousProgrammingAndPromises/FisherGame/catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
           <folding />
         </state>
       </provider>
